@@ -1,0 +1,21 @@
+.wrapper{
+    background: rgb(213, 153, 152);
+    min-height: 100vh;
+}
+li {
+    margin-bottom: 0.3rem;
+    display: flex;
+    gap: 5px;
+
+    
+}
+
+i {
+    background: linear-gradient(rgb(162, 162, 165), rgb(240, 218, 51));
+    /* width: 30px;
+    height: 30px;
+    padding-left: 7px;
+    padding-top: 7px; */
+    padding: 0.7rem;
+    border-radius: 50%;
+}
